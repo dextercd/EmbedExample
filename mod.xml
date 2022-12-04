@@ -1,0 +1,4 @@
+<Mod
+    name="Embed test"
+    description="Testing embedded version of ImGui"
+    request_no_api_restrictions="1" />

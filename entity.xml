@@ -1,0 +1,7 @@
+<Entity>
+    <LuaComponent 
+        _enabled="1" 
+        script_source_file="mods/embedtest/entity.lua"
+        execute_every_n_frame="1">
+   </LuaComponent>
+</Entity>
